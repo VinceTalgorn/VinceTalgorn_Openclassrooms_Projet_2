@@ -1,12 +1,12 @@
 # Reservia
 
-Deuxième projet du parcours développeur web chez OpenClassrooms.
-[Pour visualiser le projet](https://vincetalgorn.github.io/VinceTalgorn_Openclassrooms_Projet_2/)
-L'objectif est d'intégrer la maquette d'un site de planification de vacance nommé "Reservia" (voir l'image ci-dessous).
+-   Deuxième projet du parcours développeur web chez OpenClassrooms.
+-   [Pour visualiser le projet, cliquez ici](https://vincetalgorn.github.io/VinceTalgorn_Openclassrooms_Projet_2/).
+-   L'objectif est d'intégrer la maquette d'un site de planification de vacance nommé "Reservia" (voir l'image ci-dessous).
 
-![maquette web reservia](./images/README/Desktop.png)
+![maquette web reservia](./images/README/Desktop.png).
 
-Vous pouvez également visualiser la [version mobile](./images/README/Phone.png)
+-   Vous pouvez également visualiser la [version mobile ici](./images/README/Phone.png).
 
 ## Éléments fournis par l'entreprise virtuelle.
 
@@ -37,4 +37,4 @@ Vous pouvez également visualiser la [version mobile](./images/README/Phone.png)
 
 ## Contact
 
-Vous pouvez me contacter sur le [workplace d'openclassrooms](https://openclassrooms.workplace.com/profile.php?id=100054767869328), sur [twitter](https://twitter.com/TalgornVincent) ou sur mon [adresse mail](mailto:talgorn.v@gmail.com)
+Vous pouvez me contacter sur le [workplace d'openclassrooms](https://openclassrooms.workplace.com/profile.php?id=100054767869328), sur [twitter](https://twitter.com/TalgornVincent) ou sur mon [adresse mail](mailto:talgorn.v@gmail.com).
