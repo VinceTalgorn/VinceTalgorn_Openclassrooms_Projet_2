@@ -37,4 +37,4 @@
 
 ## Contact
 
-Vous pouvez me contacter sur le [workplace d'openclassrooms](https://openclassrooms.workplace.com/profile.php?id=100054767869328), sur [twitter](https://twitter.com/TalgornVincent) ou sur mon [adresse mail](mailto:talgorn.v@gmail.com).
+Vous pouvez me contacter sur le [workplace d'openclassrooms](https://openclassrooms.workplace.com/profile.php?id=100081178936136), sur [twitter](https://twitter.com/TalgornVincent) ou sur mon [adresse mail](mailto:talgorn.v@gmail.com).
