@@ -1,10 +1,12 @@
 # Reservia
 
 Deuxième projet du parcours développeur web chez OpenClassrooms.
+[Pour visualiser le projet](https://vincetalgorn.github.io/VinceTalgorn_Openclassrooms_Projet_2/)
 L'objectif est d'intégrer la maquette d'un site de planification de vacance nommé "Reservia" (voir l'image ci-dessous).
 
 ![maquette web reservia](./images/README/Desktop.png)
-![maquette web reservia](./images/README/Phone.png)
+
+Vous pouvez également visualiser la [version mobile](./images/README/Phone.png)
 
 ## Éléments fournis par l'entreprise virtuelle.
 
